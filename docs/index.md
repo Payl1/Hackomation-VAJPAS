@@ -1,8 +1,7 @@
 1\. Delivery bot
 ================
 
-We are building a delivery bot that brings packages from one person to another. A person that wants to send a package can go to our website and fill in the required information. And the receiver also needs to do that. If the bot arrives the sender will have to fill in a code to open the bot and put the package in. Now the bot will go to the receiver, the same process goes for the receiver and after taking the package, the bot will return.  
-============================================================================================================================================================================================================================================================================================================================================================================================================================================================
+We are building a delivery bot that brings packages from one person to another. A person that wants to send a package can go to our website and fill in the required information. And the receiver also needs to do that. If the bot arrives the sender will have to fill in a code to open the bot and put the package in. Now the bot will go to the receiver, the same process goes for the receiver and after taking the package, the bot will return. 
 
 1.1 Overview & Features
 -----------------------
