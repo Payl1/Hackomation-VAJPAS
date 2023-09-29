@@ -20,12 +20,12 @@ There is a website in which you need to fill out your information.
 1.3 Deliverables
 ----------------
 
-![](https://lh6.googleusercontent.com/Zq09u7LwVBf0ieO8Y0QXl3BJ4vTc-6dFORAPcKM9Vq3wVRt_lUsncRzVOVY4-FNeFkdqYyZT7kPMdyKXd_KEkdnqKtuEIXQ0AIt4YuQoZtSjFn68sk_8yQrvVz7IDWAPEmoQnMOeKamDEeJE2vkXgfo)
+![](https://lh5.googleusercontent.com/aM7Ts1Go34obfLVyAkoedj4aZjyXzUU2AopfvsLZ78Satd4L8JFdUnfVzuXaLFzxuMddBf7OwTynhWa70d-DBzuZT1gaYLXUkctwECJBb1TlH65RRFM2xrcgfdgtyS_gwdzTqyQG5rfom9qn7bMAPhs)
 
 1.4 Project landing page/website (optional)
 -------------------------------------------
 
-![](https://lh6.googleusercontent.com/u9l_ehxX-AXuIUta2z5O0m5tAg3xdIWALwphoBax8rGDRlsOl5vvcoXyzuuGbllTcAsxb34JwyouTR6hX7kD6-JEW0upuwaV5GixWbyqn4iJpZIrLgy0QDq8pAs2CFIK2CYSmcFDhWvXxwAIqp0LuEw)
+![](https://lh5.googleusercontent.com/F_IW562WtGzL0750sKk6hQCtDd9r0wpmafjqdAmgCajkuw6bvwbUebkSPCU0CibZV2VbI6MoK8sI9Y6vlqo-ZobJsQUkaXppaI6QfDb9N2eYnSCh4FRceR-j7MdNECIvKqde7KmlS9bw_bvG43OFfB4)
 
 1.5 the team & contact
 ----------------------
@@ -68,7 +68,7 @@ mail: <8873886@gmail.com> 
 
 number: 898-0370
 
-![](https://lh4.googleusercontent.com/NRYgbwNP1kITA5twsH5hzkmQOBcnmXZEUusd1H3hlmepEz6jk528HfMfrM3dlvkWf8JQm12CO4VtJrBWlSQ7tUQRAbYTSW5_B_ZTxpI4AGUOemP-DgFczOn0A4G2u6MAAg7rYr_6DsgDRCJDi0Mctqo)
+![](https://lh6.googleusercontent.com/6_kTPYxOg8mSOY4V5OPl6NDzgEsSFNmEG7JxlRgsGXdlgabfLagD0sgddriMw5LgGA8EkqpInPlNXkjCAmUD5_3oG5isRVuAe1gPw8YjucGcnjfi1vUYGfI9680u1i2ieJKRHy2e_7axLbzlxbNufw0)
 ==============================================================================================================================================================================================
 
 ==
@@ -101,7 +101,7 @@ Later in the process we decided to split the hardware and the package, for that 
 
 First we used a carton box to test the components and a code to control the rover manually. We used an app, that we could download on a mobile, to test if the components were working.
 
-![](https://lh4.googleusercontent.com/FvbYfvKiK2svI3DOSam6M_2yWbKsxuDXXfvBXmwy9JM67wijN8kdnCw-a6qmrTNtfU44I8dbm8x4uR69A3GzMUJ6N8LupbYpDc5kCJiApaZOsvCtEpqlzB4U4UyhzwcuSyrtwOhDXSF2SAl2jLVgvSQ)
+![](https://lh6.googleusercontent.com/NZnx_AdJY_MgDmD-wo1Ner-z4C1WE6MbDOKne4KWwFujjezgwfDIdrvGHI5n0F-Q1sGiCXiN6jzi4xprrsSChK1lVkCTtvnarTZAn1YZo899_iYAHGlsFEcE0lPH_720wm62jo92_Fkuzz2u8YJSKO0)
 
 <https://drive.google.com/file/d/1yj7bF2yTHxjw0Y8t1vz8EmeVItXXRi80/view?usp=sharing>
 
@@ -110,31 +110,31 @@ First we used a carton box to test the components and a code to control the rove
 
 3D design of the bot: 
 
-![](https://lh4.googleusercontent.com/nKfJWFpaazG7NGXgECDnJdS9RDcfyZ8dHbG1ek3-bpVYBMJiO7Aran3M6sZj-fYceSlaFbT-IvTgKfux_fmgE0IZD-nNFPdDPcGLVpN9X9zKSz4BvV0yFhmpRTwd2DTHUodfJlmaCheE3MB2Rvo6xRY)
+![](https://lh5.googleusercontent.com/ptnydXACODgHwJsRUQt6Snq7FRlxbVZn7HJriEU8YEJhIHgLt32b-ihqeSb77EsD5zIp_VbpIwvtvLPKz_KExqbON-UlR7Hro6vwLy0Kd2r7ZtaaPF0__qvBZSZVbtg9GblstpaJl-No32obKHpcqfM)
 
 Separating material: 
 
-![](https://lh5.googleusercontent.com/zS4VZdxrs6IH8teOgB4ruWGAYFXk2xiBygRhZ7DJCt1x3PMqlXm6iJFjYjHxH3ZapRQRgVgBtTHGQEq_r1KmASPOlyMZrBoSxOKiy1hxZGET_NnEM43iWNL_x5R5QOeTzQgWdFRHwuCEhtX6fLgtH2k)
+![](https://lh3.googleusercontent.com/wZmQKYLVRKxoBsNBGtbvEEt6jppixXau1K1nIjX_N7E_8CQ98Fo0fC2-rMMV-ho1pY5wr5a6RmUE-qhE83Bxe6lRTafvA-ZEQ-TBEY3p5xmYUaZ40BN3Tcfa1tYUkjP_P093eNAnzFp3KK5KSYihC8I)
 
-![](https://lh3.googleusercontent.com/4S5_pnSJoaXUgpXeHEWlRBC5mcTCTXaWkptgxU-m29Mdesz-myuUrpKabOuitesAS0H7OGUqGJ4pj8SCbLXj71g0soj2pgTNvVPuwt-gC9cLFibRFuTpoJENR0QwpwsLQ-XEKtN5sk0AUpi6TqhVpHU)
+![](https://lh3.googleusercontent.com/bTFtI0ETQA8WjXOnIwTOkNqOYTEsPz1lOQLoDVu25rEdN1BOh1kujfR_3X3UQ4zy-Femfvv5r4vflkhJUR5KcnWP5ZpHDMxuC4jy2Y_I1eMNXAXJYWN-s4SR4GpKd17XINuCKUbOvhpXe1Ee6oFnLkY)
 
 Sprayed black: 
 
-![](https://lh4.googleusercontent.com/Xeycss8Of9ZzRm6NOfH8l8VR7St_xW8zOyuUB8hJjwvhKWjgd3QMsY9Zyu3cQsJ3iKwewuLw-G5ClH4kacmSdB5zGm80k3rRhJiQ8-nMkIUqIjPw0eafjA_jEbP4vw5fjZQyx1Mk1QCEsN5SfZP1sco)
+![](https://lh5.googleusercontent.com/s5khgWGFHWLZbWryVcx9sF0DlYNr5zPWw1OKnpG1U8uZ8y7qEh9E_4veoef9Awrv79v65fX4kb5mml6mVTVsRAOeiQRzTibGOIos-WdJSg8wj2-s7XzMlP04nb-YhzqyDV1w6erh09fBJvIRAD49XD0)
 
 Drilled hole for the LCD: 
 
-![](https://lh6.googleusercontent.com/HPa8KJAFF-LyzTMplIDABMieC41aVwfUL7zfdOVWYr0pIMawCyNgKLbDZXXBms1YUh2-InVuydkImi8U_xlSo9Vrx9IjnbdwFDtc-KSFbkbIzgC3kdzJ0yn2nMNE0r9NF3ebb9Tqa-PJm2CbUQbqYQs)
+![](https://lh4.googleusercontent.com/Tc_eKmyzsTU9f3_58x1uxRgtX3grKYQLbD-Nac-QcyldAPDQKnenFdA4_aOl3lRj8hKXc1TmXZS4zbxqVdmahV9OajviAlYdiORPvPh5zNpT7lixs8-QxCBC4rcSajKd0tMb_k6kj6JyeJWIAHqvDw4)
 
 Lock system: 
 
 This is the first part of the lock system
 
-![](https://lh6.googleusercontent.com/jisHJTh59lj_utZ9JBcn5KnU3YHX6wmZSyDdDz9amwDRKhd3_PNjU9wK0RfT4hWtTKt33u8RtHoeyzbwemfjf-qTBOIZOKf5oxKsCcq5KGFjx4DdRH9YHGNYFJTtPZV0c9vrI-Vd0nTwlDQBi3qdvgA)
+![](https://lh6.googleusercontent.com/z3aHZudEz9dX0DUBD0CBJYGjPCFfCoIMfz9blaj2PiSI6BbHex7oK97TMVUOsd6Tie54Y_Vg6ixD0iwcw5Glw_X4xuhemc9wHNdheOIqFHF60v-d33vwOnOo8GyZRaJwmc5AsaFMPNkhSw4-k3id9UI)
 
 This is the second part. The wire connected to the servo motor would hold the two "rings" together and then it would be locked. 
 
-![](https://lh3.googleusercontent.com/_77GZr5kgIeyfwJykxNUH3pIxARBkJ0VFgXJqNxIT1iB0BpK5ifODIsveCVlDDjDtFKJIHUsL8vFFH3_WEab7kIG5IgyVSlv5wlGp8AZ5X0ic1G5CHPh0X-e428u6gbiVzVPhKIbQnohIODAloEd4uI)
+![](https://lh3.googleusercontent.com/Id-DwE8WpSawWYaAoJXzG7VUtj9ewkLVkiu0wZUZ72iTHTbq4LnHvM6W81vh3-BR3MTV_TLUV7dXHBbcFoftzGqmB9QQWTMQPb7_aYQ9KcD-230TzGgTbtRE-z59TYgEjhloX8fbfs7Y5modLZZG5Sk)
 
 3\. Embedded solution
 =====================
@@ -160,15 +160,13 @@ We also tested the keypad and LCD separately.
 
 A problem that we had was using the Vin pin on the esp. We needed to use it for the motor driver, but also for the LCD. And if we were to use a rail, the power was not enough. So we doubled our batteries. We then had approximately 14.8V.
 
-![](https://lh4.googleusercontent.com/LXujmOvVsTo-EAGnsXnNxWDK5s1VtIt2pzFKjT3960XmSKA-41kRTf8b4c-XZH9dTOZLHZX9vIfpQMUe6isvBfllfW4y9TA5FJf0IOy5XBH3ibXHEg4kqwZC024MxkHW2xs-3IPCRMDztVBYg6KzKjI)
+![](https://lh6.googleusercontent.com/Gb51-NWUoc5vbAMMstNBbtuNvxJTzpvJL05NZuKzlSXftq4GjfX2rC2te1nD2WhtLqADGljfCm-2pQoy9xo0aMHg1QxN0oquUA30h1yCPbO7J_fQINLzeqyOHYOmZTKiBVNEceAoFZoOKJ3MTzvjTWg)
 
 For the bluetooth tracking part we had a lot of problems.
 
-At first we couldn't find the right code that could measure the RSSI value between a device and the esp32.  
+At first we couldn't find the right code that could measure the RSSI value between a device and the esp32. After a long time we got the code to scan the RSSI value. 
 
-Then mr. Theo helped us with the code to scan the RSSI value. 
-
-We customized this code to make the bot drive forward to a specific device. 
+We upgrated this code to make the bot drive forward to a specific device. 
 
 But another problem was that it kept sending different RSSI values. 
 
@@ -187,19 +185,19 @@ To make the keypad work, we used:
 
 https://www.electronicwings.com/arduino/4x4-keypad-interfacing-with-arduino-uno
 
-![](https://lh5.googleusercontent.com/FI8Gn-IWEdtd5wXZR4eQaOXrhfzKYqN8jD9YvcLNyOr6xoOWJm8Orl-OZTMfenVvdqBiM2tT9gI2M265rhMjfHEZToWw5-ligo1MLXyUQFAaqie_iNLvM3MhbTxvHIFlunn4xrp4gzmnxTxwKXUlmJY)
+![](https://lh5.googleusercontent.com/1CMcpdrjh8QYMlJJbaxYnl4JeUYD-5GVCG2Wvt5Gu0_lJQyHpWKRwE4KDqtC0ayjdRzcEwtLNVPacVrdJqZQmKAnLywPXku9GxkjP0G7GYQR9nZIzG_uvwCXtyokeQiiKLxRLpJKDh6DryEe69GS48g)
 
 To see an output on the LCD, we used:
 
 https://mechatrofice.com/arduino/keypad-interfacing-with-arduino
 
-![](https://lh5.googleusercontent.com/9HRs0zpaog2eJ3wOqKcs6CEXqME4EuAcwSb0jABgK4lWUeDZkIS6uatK3beEKfr7HoGQAuiMxHz-cty-qFVLnJ9dQ5AfdIV0XUKF9la8DhY5ZQ5UgoPBK2jJea8oZ-ZCw2kPuR8USREfjxKA5IJXo-s)
+![](https://lh6.googleusercontent.com/ICTTueRBS0lRV-8UVR05XwsNzXkVqWDgV-y3CytaFRAzpQF3ap-ykD5a4TBNVQ4hr5YI9ZUBTfrGkYui3Iq1OVXkFy0P5CVnM5q9rKRmnq4ze59A68asjqs4PXC8kB8iGjeiydJw3W2h3LqR7T3M8XU)
 
 Coding the GPS:
 
 We connected the GPS module to the Arduino, then put a code where we could locate our module. Then one person went outside for approx. 3 minutes to find its coordinates.
 
-![](https://lh3.googleusercontent.com/g4U9n8fzKmpFIMyukx7-VRy2eg1LYzAyxFkXBFaOMpNjVCIxo3z7nVbHCN3Z5dezhkanCp36HC2Yv_c7HDghCcW8yMsweRgj0Ay4mP2we_DagkUjAZYx7FjGcT4t6EB1K7KmNgBN-seSd94VEcWIj04)![](https://lh3.googleusercontent.com/mubFHWwyQ-5Nr15JMcd4vAdCgKvpM3jqjmwxCf7kF7iRsPGsQu0tvSjnEWMhE0fcGq49CaADwTxuyXCM6xyMAJeDheWWmm92eulWEnyqQN_bv2XZxig5x3u1XlnpFDOiFRoXmZIRB4AxW87Nuu_UHtg)
+![](https://lh4.googleusercontent.com/PKIxuWwx1i82sEOgIsAKAX0C8G5_Mq38F1TJMdWifeFrIdfsqULN8T6jWNYyjaZ9IScowrMGDniTAQ1rb5Sco4Y6JJ-wWzjwRtuWkncaaTMufde-JH9o7w3_zfZbClqw8Qm6NU0Ykqdn8YEmomMPPRY)![](https://lh3.googleusercontent.com/mVa9pKfAps0U358U0V0r9nBU-bQG9f9W957crHGGRTQFDb4J_CHUC_51LGQ4sLr_gvLtVSZ-GnDlm-HFCBAJP1Au47N3M0qh4Uv6XrhC_4kqx1hnZOzPjx8Z3aKt6Qe-1pLtRgoYCz9LPg4JU7SGdK4)
 
 To code and connect our gps module (to the Arduino), we used:
 
@@ -207,10 +205,6 @@ To code and connect our gps module (to the Arduino), we used:
 
 3.6 Files & Code
 ----------------
-
-The code from mr. Theo: 
-
-<https://drive.google.com/file/d/10_aVCwoK9y_IxWwVdMt-2vQszN_QZJCI/view?usp=sharing>
 
 The final bluetooth code: 
 
@@ -252,9 +246,9 @@ The problem here was that we didn't yet figure out the code to send data to and 
 4.5 Proof of work
 -----------------
 
-![](https://lh5.googleusercontent.com/nEmQ67W0GF9J89Q28gco7-XIwCbSYIRMjA3VuTxrajLxNKZDR0rVgVjLbjmZAl4leNbO5wL3gdo6vXc2kI7mNUWdTpNO7gak19yWAGVhOyJbRLduNMXonQlByOdwyWcZPlvfDtIEEPhlPnxR6XLxt8A)
+![](https://lh3.googleusercontent.com/lI2TLBGhmC3z57RzwHVftu1zsKsvk8-bJCeNgovtgBNZpCdl6GfIvnXpLlFJIZIvRvKBvqM1sLxc15f_CvhnKHaBsVt5NlvmlTcSlNICcqAX7zrlLTujEZSdM6HOQ3czhHOyWrrJFl-a3L4BCg68Otk)
 
-![](https://lh3.googleusercontent.com/DtUndtJvEFKujddrDG_bE5kiSDaMwOwD-WGfnhB2PtsNAepo86r3FC7dPKteA2pt3RCOpA5t3iMRt8nLbVAC81r7c6MzamCrAEUdT00Zdh2zI4OUNv3UEUxsP42hnDg4A9QyUNYygps4wEkyONHErnI)![](https://lh4.googleusercontent.com/br0rlCkgjX5Us2imDyIfSaGElfwtruNZxC6gQNyjmLR3KISDmvidtFNYOi3jz8XPq9yOxBw7yUgs6D_2MkA5Y4gDDvyb83IRA-Qd-MvXzvx7niUbm1EhiM19cMtwqXEUglzcLHItezOaXPOp__Nwrg4)
+![](https://lh6.googleusercontent.com/eKxiEr8YdvqwAWECAfk99Hq8hxklHZFhhXmVCGU9zNrjkuy-AskuslqCZvAe0ltqYT0W27T2G1tB8c9GLMwCYmCVprWv28bkdIOoiAABGGpXG_d3U-HpXx1vPzRmsTTwvX-xbtjiJiXNrmMygBPnWHU)![](https://lh3.googleusercontent.com/FeYX59Gl5cXPsBfJSKR6vP4n7vLn2FIV2h2slswXenRJGoLwfBt_lCDVmEMJURjSgC-ZWxFx5tiwKVG57j47_74D2EIANA-M6Li-0aZa8aw_qrzE2M2vZ5oEmJbcAw8FOY0fXnl2nsD2tsaTihC0qps)
 
 Filled in an IP address (The website hosted on a esp32): 
 
@@ -294,7 +288,7 @@ Our target are companies with large workspaces, universities, etc. in short plac
 5.4 Build your business canvas
 ------------------------------
 
-![](https://lh3.googleusercontent.com/TabFAouhqwJziefDpYXzAKkFh_Dwg-WryecjW5hWDl2eQ5KIhWaiaw6r94PPbvdCOoz7MTrWjl_bovDV0n-AInSVGqF-Pr4YCHEUomtulbPJEYvCI8tUUZiBlP6G_nqo6FjuZZoHqBXMOEj_QwI32u0)
+![](https://lh5.googleusercontent.com/T6zTO95DazQac8DKf2bT7AqcMD5Uho3Qx3BY8SwldZuIXp4DBkTKXRIG_62pWV1Ix6_mQAH76OSvDCGyCd36igr5Z_tgy-Gf3GuWDizHQ2DulhOoTZECbAlcmkiscH8YTUQJCiamh56-fa3eXlV0pV0)
 
 5.5 Build your pitch deck
 -------------------------
@@ -302,7 +296,7 @@ Our target are companies with large workspaces, universities, etc. in short plac
 5.6 Make a project Poster
 -------------------------
 
-![](https://lh6.googleusercontent.com/Zq09u7LwVBf0ieO8Y0QXl3BJ4vTc-6dFORAPcKM9Vq3wVRt_lUsncRzVOVY4-FNeFkdqYyZT7kPMdyKXd_KEkdnqKtuEIXQ0AIt4YuQoZtSjFn68sk_8yQrvVz7IDWAPEmoQnMOeKamDEeJE2vkXgfo)
+![](https://lh5.googleusercontent.com/aM7Ts1Go34obfLVyAkoedj4aZjyXzUU2AopfvsLZ78Satd4L8JFdUnfVzuXaLFzxuMddBf7OwTynhWa70d-DBzuZT1gaYLXUkctwECJBb1TlH65RRFM2xrcgfdgtyS_gwdzTqyQG5rfom9qn7bMAPhs)
 
 Pitch presentation: <https://docs.google.com/presentation/d/1lkT1Ml4-cA5gT5z7F9nGrIzre97DbV0j/edit?usp=sharing&ouid=100560388715619829090&rtpof=true&sd=true>
 
